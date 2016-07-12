@@ -10,6 +10,10 @@ avatar = media.Movie("Avatar",
                      "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Post",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
-avatar.show_trailer()
+school_of_rock = media.Movie("School of Rock",
+                            "A crazy musician leads schoolchildren to the wonders of music",
+                            "https://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg",
+                            "https://www.youtube.com/watch?v=XCwy6lW5Ixc")
+school_of_rock.show_trailer()
 
                      
